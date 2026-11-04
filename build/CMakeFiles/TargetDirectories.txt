@@ -1,0 +1,3 @@
+C:/Users/Dell/source/repos/WebScraper/build/CMakeFiles/WebScraper.dir
+C:/Users/Dell/source/repos/WebScraper/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dell/source/repos/WebScraper/build/CMakeFiles/ZERO_CHECK.dir
