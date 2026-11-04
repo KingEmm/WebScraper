@@ -430,6 +430,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\Dell\source\repos\WebScraper\WebScraper.cpp" />
     <ClInclude Include="C:\Users\Dell\source\repos\WebScraper\WebScraper.h" />
     <ClCompile Include="C:\Users\Dell\source\repos\WebScraper\MySocket.cpp" />
+    <ClCompile Include="C:\Users\Dell\source\repos\WebScraper\StrManipulator.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

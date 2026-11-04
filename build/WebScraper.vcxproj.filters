@@ -7,6 +7,9 @@
     <ClCompile Include="C:\Users\Dell\source\repos\WebScraper\MySocket.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\Dell\source\repos\WebScraper\StrManipulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\Dell\source\repos\WebScraper\WebScraper.h">
