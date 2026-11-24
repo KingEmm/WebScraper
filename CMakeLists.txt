@@ -14,6 +14,7 @@ add_executable(WebScraper
     WebScraper.cpp
     WebScraper.h
     MySocket.cpp
+    StrManipulator.cpp
 )
 
 # Link OpenSSL
